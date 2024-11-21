@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Withdraw apakah pengguna bisa melakukan withdraw atau tidak, apabila pengguna tidak menginput jumlah yang akan ditarik/withdraw</description>
+   <name>TC11-Uji Withdraw dengan tidak menginput nominal withdraw</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>967ad37d-ca88-4627-a2c6-35f6d815bc7f</testCaseGuid>
+</TestCaseEntity>

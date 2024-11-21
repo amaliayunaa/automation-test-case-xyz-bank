@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Nov 21, 2024 55610 PM</name>
+   <tag></tag>
+   <elementGuidId>4c06ceae-394b-4243-b019-8edfc6fd8229</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='anchor0']/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>bfe8aafb-17c7-48c2-9d50-a1bf6e89cb51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>9969e194-98c1-496b-add8-8db85e1bd6de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nov 21, 2024 5:56:10 PM</value>
+      <webElementGuid>473361f5-55d7-4ee6-a544-0adee5440149</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;anchor0&quot;)/td[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>eb0f0a72-44b5-43c8-95ac-2067cd51b829</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='anchor0']/td</value>
+      <webElementGuid>f7641f1a-c7cf-47d8-8418-ad52fe073b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[1]/following::td[1]</value>
+      <webElementGuid>c2f315b0-2441-4150-8274-0a0b1d24674d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amount'])[1]/following::td[2]</value>
+      <webElementGuid>938a2ca0-8374-49b8-84ac-97254fd69189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Debit'])[1]/preceding::td[2]</value>
+      <webElementGuid>5c014c17-d28e-4bab-a806-e92a1d2907dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nov 21, 2024 5:56:00 PM'])[1]/preceding::td[3]</value>
+      <webElementGuid>475794a3-fca4-4d0d-b607-79781ea657df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nov 21, 2024 5:56:10 PM']/parent::*</value>
+      <webElementGuid>f82f4ae1-be99-4260-943f-a78f28d49e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tbody/tr/td</value>
+      <webElementGuid>688eec6d-5cf9-4232-8064-e24325344363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Nov 21, 2024 5:56:10 PM' or . = 'Nov 21, 2024 5:56:10 PM')]</value>
+      <webElementGuid>28809b73-b7db-4f49-a321-d6f18873afe0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

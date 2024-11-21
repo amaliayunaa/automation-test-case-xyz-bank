@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat mengsorting data transaction history berdasarkan tanggal dan waktu (yang terlama dan terbaru)setelah melakukan transaksi deposit atau withdraw</description>
+   <name>TC05-Sorting Transaction History</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b29193a-aec3-412e-b12e-1c69ed73ab53</testCaseGuid>
+</TestCaseEntity>

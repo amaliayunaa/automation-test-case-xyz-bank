@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat mereset transaction history setelah melakukan transaksi deposit atau withdraw</description>
+   <name>TC06-Mereset Transaction History</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e16fc9a-4a04-4200-9fef-647fe79b5179</testCaseGuid>
+</TestCaseEntity>

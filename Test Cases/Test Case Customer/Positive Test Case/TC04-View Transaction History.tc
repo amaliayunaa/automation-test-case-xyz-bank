@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat melihat transaction history setelah melakukan transaksi deposit atau withdraw</description>
+   <name>TC04-View Transaction History</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1487385f-77ea-488a-a518-211907f0de5d</testCaseGuid>
+</TestCaseEntity>

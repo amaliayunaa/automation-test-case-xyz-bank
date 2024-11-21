@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat melakukan deposit dengan menginput jumlah yang akan disetorkan/deposit di bagian Deposit</description>
+   <name>TC02-Input Deposit</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aea852ab-56ad-4e2d-bb02-0e1231416fbe</testCaseGuid>
+</TestCaseEntity>

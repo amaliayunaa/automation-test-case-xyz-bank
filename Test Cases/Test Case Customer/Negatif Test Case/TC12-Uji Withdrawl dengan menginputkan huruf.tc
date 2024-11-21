@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian withdrawn apakah pengguna bisa melakukan withdrawn atau tidak, apabila pengguna memasukkan inputan huruf</description>
+   <name>TC12-Uji Withdrawl dengan menginputkan huruf</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50dea961-f34b-413f-8992-4bf3bbf0b7f3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Customers, apakah pengguna bisa menghapus data customer yang dinginkan</description>
+   <name>TC17-Menguji Delete Customer di bagian Customers</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31ef90d5-039f-4de3-b861-5bc20cd0bf56</testCaseGuid>
+</TestCaseEntity>

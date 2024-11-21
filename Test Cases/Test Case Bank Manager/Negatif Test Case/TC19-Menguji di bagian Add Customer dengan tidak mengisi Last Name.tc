@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Add Customer apakah pengguna bisa melakukan Add Customer atau tidak apabila tidak mengisi Last Name</description>
+   <name>TC19-Menguji di bagian Add Customer dengan tidak mengisi Last Name</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>deda2dc4-6ef8-447d-bc17-817b1777ed1f</testCaseGuid>
+</TestCaseEntity>

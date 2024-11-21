@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Uji Deposit dengan menginputkan huruf</description>
+   <name>TC10-Uji Deposit dengan menginputkan huruf</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b9c428b-8160-490d-912f-d6ecb9e09f3e</testCaseGuid>
+</TestCaseEntity>

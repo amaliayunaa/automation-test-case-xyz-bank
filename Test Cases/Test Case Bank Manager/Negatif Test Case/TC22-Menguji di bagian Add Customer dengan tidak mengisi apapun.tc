@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Add Customer apakah pengguna bisa melakukan Add Customer atau tidak apabila tidak mengisi apapun</description>
+   <name>TC22-Menguji di bagian Add Customer dengan tidak mengisi apapun</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad146129-427a-4826-b1b5-6887bf76f368</testCaseGuid>
+</TestCaseEntity>

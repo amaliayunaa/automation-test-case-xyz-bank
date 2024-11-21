@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Deposit apakah pengguna bisa melakukan Deposit atau tidak, apabila pengguna tidak menginput jumlah yang akan di disetorkan/deposit</description>
+   <name>TC09-Uji Deposit dengan tidak menginput nominal Deposit</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf742b59-99a2-4116-bdb1-e1905912aae0</testCaseGuid>
+</TestCaseEntity>

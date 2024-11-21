@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji apakah pengguna bisa login atau tidak apabila tidak memilih nama yang tersedia di Customer Login</description>
+   <name>TC08-login dengan tidak memilih nama yang tersedia</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa6128c5-81f7-451c-8e38-7545115d1214</testCaseGuid>
+</TestCaseEntity>

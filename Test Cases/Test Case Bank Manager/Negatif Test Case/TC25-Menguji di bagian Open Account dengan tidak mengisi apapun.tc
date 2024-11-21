@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Open Account apakah pengguna bisa melakukan proses Open Account atau tidak apabila tidak mengisi apapun</description>
+   <name>TC25-Menguji di bagian Open Account dengan tidak mengisi apapun</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7100b257-9c1a-4356-a830-7f4f7740b658</testCaseGuid>
+</TestCaseEntity>

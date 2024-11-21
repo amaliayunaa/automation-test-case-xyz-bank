@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Add Customer apakah pengguna bisa melakukan Add Customer atau tidak apabila tidak mengisi Post Code</description>
+   <name>TC20-Menguji di bagian Add Customer dengan tidak mengisi Post Code</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f4dcf79-29d4-4189-bf5b-cf52867062d7</testCaseGuid>
+</TestCaseEntity>

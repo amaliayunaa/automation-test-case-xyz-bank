@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat log out setelah membuka dan melakukan transaksi pada webite XYZ Bank</description>
+   <name>TC07-Customer Log Out</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57d204f2-3f4c-49a5-b3e3-618faa62aaad</testCaseGuid>
+</TestCaseEntity>

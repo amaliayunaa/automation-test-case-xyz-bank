@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat melakukan Withdraw dengan menginput jumlah yang akan ditarik/ withdraw di bagian Withdraw</description>
+   <name>TC03-Input Withdrawl</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb96256a-5bf5-40ac-9f2f-4e8f43488f6c</testCaseGuid>
+</TestCaseEntity>

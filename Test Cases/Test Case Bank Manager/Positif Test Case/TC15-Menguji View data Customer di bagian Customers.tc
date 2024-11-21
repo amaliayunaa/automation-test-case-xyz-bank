@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Customers, apakah pengguna bisa melihat data customer yang sudah diinputkan</description>
+   <name>TC15-Menguji View data Customer di bagian Customers</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>89f8c237-57b6-4930-8cbc-8e92affb284e</testCaseGuid>
+</TestCaseEntity>

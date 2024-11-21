@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Open Account apakah pengguna bisa melakukan proses Open Account atau tidak apabila tidak mengisi Currency</description>
+   <name>TC24-Menguji di bagian Open Account dengan tidak mengisi Currency</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b35a71db-45d7-4fd7-abff-5d4f540e5af2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Add Customer apakah pengguna bisa melakukan Add Customer atau tidak apabila pengguna memasukkan inputan dengan ngasal dan panjang untuk menguji batasan inputan karakter</description>
+   <name>TC21-Menguji di bagian Add Customer dengan mengisi seluruh inputan menggunakan inputan ngasal dan panjang</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>56ce6609-038f-419e-abc1-b3e0d6842c06</testCaseGuid>
+</TestCaseEntity>

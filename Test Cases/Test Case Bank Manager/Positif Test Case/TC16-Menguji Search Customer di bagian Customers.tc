@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Customers, apakah pengguna bisa mencari data customer yang diinginkan di bagian Search Customers atau tidak</description>
+   <name>TC16-Menguji Search Customer di bagian Customers</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b80f2fb2-7516-4b21-9567-f0677389a41a</testCaseGuid>
+</TestCaseEntity>

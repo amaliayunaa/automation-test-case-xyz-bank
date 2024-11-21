@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat melakukan proses Open Account dengan memilih nama customer dan currency yang tersedia</description>
+   <name>TC14-Verifikasi Open Accont dengan mengisi nama customer dan currency yang valid</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1d446641-9af5-41e2-8d78-8860d5d2adc7</testCaseGuid>
+</TestCaseEntity>

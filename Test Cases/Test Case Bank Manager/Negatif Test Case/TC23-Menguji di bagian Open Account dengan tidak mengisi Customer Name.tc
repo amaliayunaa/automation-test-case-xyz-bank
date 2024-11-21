@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Open Account apakah pengguna bisa melakukan proses Open Account atau tidak apabila tidak mengisi Customer Name</description>
+   <name>TC23-Menguji di bagian Open Account dengan tidak mengisi Customer Name</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c51cf8f7-3056-4073-a07c-a5debe0b1ef9</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menguji di bagian Add Customer apakah pengguna bisa melakukan Add Customer atau tidak apabila tidak mengisi First Name</description>
+   <name>TC18-Menguji di bagian Add Customer dengan tidak mengisi First Name</name>
+   <tag>Negative</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6af3ff0b-9fa4-43f9-b78e-ce631b02a67c</testCaseGuid>
+</TestCaseEntity>

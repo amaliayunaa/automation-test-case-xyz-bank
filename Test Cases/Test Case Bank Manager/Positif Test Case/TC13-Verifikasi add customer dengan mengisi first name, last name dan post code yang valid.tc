@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verifikasi bahwa pengguna dapat melakukan add customer, apabila selesai mengisi first name, last name dan post code yang valid</description>
+   <name>TC13-Verifikasi add customer dengan mengisi first name, last name dan post code yang valid</name>
+   <tag>Positive</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>561624b6-1d56-4523-b7c0-f9060789edc3</testCaseGuid>
+</TestCaseEntity>
